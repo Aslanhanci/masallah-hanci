@@ -1,0 +1,14 @@
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\bin\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.exe
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\bin\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.deps.json
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\bin\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.runtimeconfig.json
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\bin\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\bin\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.pdb
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.AssemblyInfoInputs.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.AssemblyInfo.cs
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.csproj.CoreCompileInputs.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\refint\Kalıtım Ve Arayüzler modul5_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.pdb
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\Kalıtım Ve Arayüzler modul5_1.genruntimeconfig.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Kalıtım Ve Arayüzler modul5_1\Kalıtım Ve Arayüzler modul5_1\obj\Debug\net10.0\ref\Kalıtım Ve Arayüzler modul5_1.dll

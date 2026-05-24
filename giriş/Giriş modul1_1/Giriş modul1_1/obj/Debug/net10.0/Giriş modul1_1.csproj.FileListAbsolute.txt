@@ -1,0 +1,14 @@
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\bin\Debug\net10.0\Giriş modul1_1.exe
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\bin\Debug\net10.0\Giriş modul1_1.deps.json
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\bin\Debug\net10.0\Giriş modul1_1.runtimeconfig.json
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\bin\Debug\net10.0\Giriş modul1_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\bin\Debug\net10.0\Giriş modul1_1.pdb
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.AssemblyInfoInputs.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.AssemblyInfo.cs
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.csproj.CoreCompileInputs.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\refint\Giriş modul1_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.pdb
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\Giriş modul1_1.genruntimeconfig.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Giriş modul1_1\Giriş modul1_1\obj\Debug\net10.0\ref\Giriş modul1_1.dll
