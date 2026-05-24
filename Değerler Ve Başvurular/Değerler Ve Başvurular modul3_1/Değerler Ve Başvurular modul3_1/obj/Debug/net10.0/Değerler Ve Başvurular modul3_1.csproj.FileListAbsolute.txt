@@ -1,0 +1,14 @@
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\bin\Debug\net10.0\Değerler Ve Başvurular modul3_1.exe
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\bin\Debug\net10.0\Değerler Ve Başvurular modul3_1.deps.json
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\bin\Debug\net10.0\Değerler Ve Başvurular modul3_1.runtimeconfig.json
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\bin\Debug\net10.0\Değerler Ve Başvurular modul3_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\bin\Debug\net10.0\Değerler Ve Başvurular modul3_1.pdb
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.AssemblyInfoInputs.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.AssemblyInfo.cs
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.csproj.CoreCompileInputs.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\refint\Değerler Ve Başvurular modul3_1.dll
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.pdb
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\Değerler Ve Başvurular modul3_1.genruntimeconfig.cache
+C:\Users\ASLAN\Desktop\nesne tabanlı programlama dersı\Değerler Ve Başvurular modul3_1\Değerler Ve Başvurular modul3_1\obj\Debug\net10.0\ref\Değerler Ve Başvurular modul3_1.dll
