@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Veri_Yonetimi_modul10_1/1.0.0": {
+        "runtime": {
+          "Veri_Yonetimi_modul10_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veri_Yonetimi_modul10_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
